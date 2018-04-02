@@ -32,7 +32,7 @@ cat README.md
 git co develop
 git co -b Release/v1.0 
 ```
-##Working . . .
+## Working . . .
 
 
 ```
@@ -53,13 +53,13 @@ git pull
 cat README.md
 ```
 
-#HotFix
+# HotFix
 
 ```
 git co -b Hotfix
 
 ```
-##Working ....
+## Working ....
 
 ```
 git add .
